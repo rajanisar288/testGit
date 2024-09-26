@@ -1,2 +1,2 @@
-let code = 50
-let line = 40
+let newCode = 50
+let line = 6000
