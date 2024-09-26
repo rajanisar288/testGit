@@ -1,2 +1,2 @@
-let newCode = 'whats is this'
-let line = 6000
+let newCode = 'this is from master branch'
+let line = 'not example'
