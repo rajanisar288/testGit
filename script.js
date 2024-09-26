@@ -1,2 +1,2 @@
-let newCode = 50
-let line = 'string values'
+let newCode = 'whats is this'
+let line = 6000
